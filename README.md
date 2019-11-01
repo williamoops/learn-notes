@@ -1,5 +1,5 @@
-# learn-notes
-learn notes
+## learn-notes
+#learn notes
 
 1.认识到了“看着别人犯错”的重要性。
 
